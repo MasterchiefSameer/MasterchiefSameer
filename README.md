@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently a student at Chhatrapati Shahu Ji Maharaj University, <br>Kanpur<br>👯 I’m looking to collaborate on Open Source with my Relevant Skills.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning full-stack languages in depth.<br>💬 Ask me about anything regarding Tech-Related, AI/ML<br>⚡ Fun fact: "I am still working productively while sleepy.<br> How to reach me sameergautam024@gmail.com"
+# 💫 I'm Sameer :
+🔭 I’m currently a student at Chhatrapati Shahu Ji Maharaj University, <br>Kanpur<br>👯 I’m looking to collaborate on Open Source with my Relevant Skills.<br>🌱 I’m currently learning full-stack languages in depth.<br>💬 Ask me about anything regarding Tech-Related, AI/ML. <br>⚡ Fun fact: "I am still working productively while sleeping.<br>🤝 How to reach me: sameergautam024@gmail.com"
 
 
 ## 🌐 Socials:
